@@ -1,0 +1,10 @@
+#imageh{
+  height:200px
+    width:60px
+}
+#image{
+  height:120px;
+width:220px;
+max-width:100%;
+height:auto;
+display:block;}
